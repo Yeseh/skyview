@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Azure.ResourceManager" Version="1.7.0" />
+      <PackageReference Include="Azure.ResourceManager.Resources" Version="1.6.0" />
+      <PackageReference Include="Azure.ResourceManager.Storage" Version="1.1.1" />
+      <PackageReference Include="Microsoft.Orleans.Sdk" Version="7.2.1" />
+    </ItemGroup>
+
+</Project>
