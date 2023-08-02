@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skyview.Server", "Skyview.S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skyview.Lib", "Skyview.Lib\Skyview.Lib.csproj", "{6866DC6E-73B4-4470-B9F3-E4AFB060B12B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skyview.Server.Tests", "Skyview.Server.Tests\Skyview.Server.Tests.csproj", "{541956D4-A86A-4355-A992-B9CC9E63B03E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{6866DC6E-73B4-4470-B9F3-E4AFB060B12B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6866DC6E-73B4-4470-B9F3-E4AFB060B12B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6866DC6E-73B4-4470-B9F3-E4AFB060B12B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{541956D4-A86A-4355-A992-B9CC9E63B03E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{541956D4-A86A-4355-A992-B9CC9E63B03E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{541956D4-A86A-4355-A992-B9CC9E63B03E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{541956D4-A86A-4355-A992-B9CC9E63B03E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
